@@ -1,0 +1,7 @@
+{
+"editor.rulers": [
+        143
+],
+        "editor.wordWrapColumn": 150,
+        "editor.wordWrap": "wordWrapColumn", /* or: bounded */
+}
